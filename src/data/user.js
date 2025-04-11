@@ -1,3 +1,5 @@
+import React from "react";
+
 const user = {
   name: "Liza",
   city: "New York",
